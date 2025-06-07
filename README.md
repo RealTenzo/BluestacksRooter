@@ -12,7 +12,7 @@ A sleek and modern tool to **enable or disable root access** in **BlueStacks 5**
 - 🔍 Auto-detects BlueStacks configuration path
 - 💡 Built-in notifications and feedback
 - 🧠 No need for adb or external scripts
-- 🖥️ Supports **BlueStacks 5**, **MSI Player**, and similar
+- 🖥️ Supports **BlueStacks 5**, **MSI Player 5**
 
 ---
 
